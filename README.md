@@ -1,4 +1,4 @@
-**1. Electricity Consumption Forecasting**
+**Electricity Consumption Forecasting**
 
 ---
 
